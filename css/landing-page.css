@@ -47,12 +47,12 @@ h6 {
 
 .intro-message > h1 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 5px 5px 3px rgba(0,0,0,0.6);
     font-size: 5em;
 }
 
 .intro-divider {
-    position: relative;
+    align: left;
     width: 400px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
